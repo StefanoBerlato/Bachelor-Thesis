@@ -1,0 +1,1 @@
+for each class, you should put its icon (only PNG) in media/classesIcons. Remember to name the files (js class file and the icon file) the same.

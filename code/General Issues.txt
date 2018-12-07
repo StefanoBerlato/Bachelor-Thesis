@@ -1,0 +1,3 @@
+if the toolbar object class icon is different from the graph class icon, anchors/endpoints are not rendered properly
+
+sometimes, the objects are not painted properly (anchors/endpoints in wrong position)

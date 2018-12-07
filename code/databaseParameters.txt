@@ -1,0 +1,11 @@
+host : sql11.freesqldatabase.com
+port : 3306
+database name : sql11182476
+database username : sql11182476
+database password : GYcgXwq6Yl
+
+tabella "iris"
+
+http://www.freesqldatabase.com/account/
+
+http://www.phpmyadmin.co/index.php?db=sql11182476&table=iris&target=tbl_operations.php

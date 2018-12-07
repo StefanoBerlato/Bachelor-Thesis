@@ -1,0 +1,118 @@
+/* html and body properties */
+html, body {
+    text-align: center;  
+    height: 100%;
+    padding: 0px !important;
+    margin: 0px !important;
+    overflow: hidden;
+}
+
+
+
+/* required by JSplumb for make elements draggable */
+.draggableItem {
+    position:absolute;
+}
+
+.main {
+    background-color: "#ecf0f1";
+}
+
+.myContainer {
+    height: 100%;
+    margin: 0px 0px !important;
+    padding: 0px 0px!important;
+    margin-right: 0px !important;
+}
+
+
+
+/* CSS for configuration panel */
+.configurationPanel {
+    align-content: center !important;
+    background-color: #ecf0f1;
+    min-width: 250px;
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+ 
+}
+
+div.verticalscrollmenu {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+div.verticalscrollmenu input {
+    transition: all 0.2s ease-in-out;
+}
+
+div.verticalscrollmenu input:hover {
+    transform: scale(1.05);
+}
+
+#configurationPanel {
+    width: 99%;
+    height: 99%;
+    min-width: 200px;
+    overflow-y: scroll;
+
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+
+
+/* CSS for bottom toolbar */
+
+.toolbar{
+    width: 100%;
+    background-color: #3498DB;
+    position: absolute;
+    bottom: 0;
+}
+
+div.horizontalScrollMenu {
+    overflow: auto;
+    white-space: nowrap;
+    width: 80%;
+    height: 65px;
+    overflow: hidden;
+}
+
+div.horizontalScrollMenu img {
+    height: 60px;
+    width: 60px;
+    margin: auto;
+    padding: 14px;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    display:inline-block;
+    line-height:50px;
+}
+
+div.horizontalScrollMenu img:hover {
+    transform: scale(1.15);
+    background-color: #2980b9;
+}
+
+#toolbar {
+    height:90px; /* 40px - more place for scrollbar, is hidden under parent box */
+    padding:5px;
+    white-space:nowrap;
+    overflow-x: scroll;
+    overflow-y: hide;
+	-webkit-overflow-scrolling:touch;
+}
+
+
+
+/* connected clients text */
+#connectedClients {
+    font-size: 200% !important;
+    position:fixed; bottom:10px; right:40px !important;
+}

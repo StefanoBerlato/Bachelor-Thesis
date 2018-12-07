@@ -1,0 +1,24 @@
+{
+  "name": "Thesis",
+  "version": "0.0.1",
+  "description": "Thesis project 2017 Berlato Stefano 172811",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "berlato_stefano",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bind": "^0.1.7",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "mysql": "^2.13.0",
+    "serve-favicon": "^2.4.3",
+    "ws": "^3.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
