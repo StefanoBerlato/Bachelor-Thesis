@@ -1,4 +1,4 @@
-# Berlato Stefano, Bachelor Thesis #
+# Bachelor Thesis #
 
 ### Bachelor Thesis, Computer Science, University of Trento - DISI, 2017
 #### Supervisor: Brunato Mauro
