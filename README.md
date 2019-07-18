@@ -15,6 +15,7 @@ The idea is to have several work sessions where more clients can operate togethe
 > I.e. link a database to an algorithm makes the latter analyze the data provided by the first.
 
 Every change made by a user is reflected on the others, from a simple movement of an object to the utter deletion of another one; besides, it’s also saved on the file system of the server. The purpose is to build the foundations for such system, in order to provide all the needed basic instruments. These will be subsequently enriched with modules, some of them mentioned before, that should just take care of their own functionalities exploiting the system ones.
+___
 
 (the rest of the thesis is in the "Thesis.pdf" file)
 
