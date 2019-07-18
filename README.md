@@ -28,6 +28,6 @@ Every change made by a user is reflected on the others, from a simple movement o
 
 To run the code type `nodejs server.js`
 
-Read the thesis in the tesiConCopertina.pdf file
+The thesis is in the "Thesis.pdf" file
 
 Please notice that this is an incomplete project, since the thesis verged on the creation of the interface rather than the actual implementation of the components (to be done by other students) 
