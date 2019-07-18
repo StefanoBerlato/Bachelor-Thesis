@@ -16,7 +16,9 @@ The idea is to have several work sessions where more clients can operate togethe
 
 Every change made by a user is reflected on the others, from a simple movement of an object to the utter deletion of another one; besides, it’s also saved on the file system of the server. The purpose is to build the foundations for such system, in order to provide all the needed basic instruments. These will be subsequently enriched with modules, some of them mentioned before, that should just take care of their own functionalities exploiting the system ones.
 
-#### Screenshots
+(the rest of the thesis is in the "Thesis.pdf" file)
+
+## Screenshots
 
 ![Select Work Session](./repo_resources/session.png)
 
@@ -25,9 +27,8 @@ Every change made by a user is reflected on the others, from a simple movement o
 ![Algorithm Configuration](./repo_resources/screen2.png)
 
 
+## How to Run
 
 To run the code type `nodejs server.js`
 
-The thesis is in the "Thesis.pdf" file
-
-Please notice that this is an incomplete project, since the thesis verged on the creation of the interface rather than the actual implementation of the components (to be done by other students) 
+> this is an incomplete project, since the thesis verged on the creation of the interface rather than the actual implementation of the components, task to be done by other students.
