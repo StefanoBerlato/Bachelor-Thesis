@@ -18,6 +18,12 @@ Every change made by a user is reflected on the others, from a simple movement o
 
 (the rest of the thesis is in the "Thesis.pdf" file)
 
+## How to Run
+
+To run the code type `nodejs server.js`
+
+> this is an incomplete project, since the thesis verged on the creation of the interface rather than the actual implementation of the components, task to be done by other students.
+
 ## Screenshots
 
 ![Select Work Session](./repo_resources/session.png)
@@ -25,10 +31,3 @@ Every change made by a user is reflected on the others, from a simple movement o
 ![Database Configuration](./repo_resources/screen.png)
 
 ![Algorithm Configuration](./repo_resources/screen2.png)
-
-
-## How to Run
-
-To run the code type `nodejs server.js`
-
-> this is an incomplete project, since the thesis verged on the creation of the interface rather than the actual implementation of the components, task to be done by other students.
