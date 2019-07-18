@@ -5,6 +5,8 @@
 #### Student: Berlato Stefano
 #### Title: Development of a Web-based Interface for the Orchestration of Machine Learning Components
 
+# Abstract 
+
 This thesis wells from the plenty of resources that the Machine Learning environment has reached nowadays, and the difficulty of integrating them efficiently by using different means. In fact, most of them are available online but, even though they are accessible and reachable very easily, the user has to navigate through all these platforms and manually handle the interaction between them to achieve his purposes. 
 > I.e. download databases and query the data, implement algorithms and run them via the shell, use external tools to plot the results, et cetera.
 
